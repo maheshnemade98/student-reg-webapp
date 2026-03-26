@@ -6,7 +6,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.rushi</groupId>
 	<artifactId>student-reg-webapp</artifactId>
+<<<<<<< HEAD
 	<version>2.0.2-SNAPSHOT</version>
+=======
+	<version>2.0.3</version>
+>>>>>>> 658a8a2 (Updated details)
 	<packaging>war</packaging>
 	<properties>
 		<java.version>11</java.version>
