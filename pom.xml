@@ -28,7 +28,7 @@
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://nexus-nexus.apps.cluster-p79ph.p79ph.sandbox924.opentlc.com/repository/student-reg-webapp-snapshot</url>
+			<url>http://nexus-nexus.apps.cluster-p79ph.p79ph.sandbox924.opentlc.com/repository/student-reg-webapp-snapshot/</url>
 		</snapshotRepository>
     </distributionManagement>
 
